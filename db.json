@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Bryan",
+      "dogBreed": "Poodle",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +28,218 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 9
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 11
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 18
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 19
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 21
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 22
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 23
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 24
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 25
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 26
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 28
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 30
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 32
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 33
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 34
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 35
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 36
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 37
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 38
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 39
+    },
+    {
+      "name": "brandon",
+      "email": "tysonnn92@gmail.com",
+      "id": 40
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 41
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
